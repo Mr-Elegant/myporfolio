@@ -9,9 +9,9 @@ const data = [
         
         image: MovieGuider ,
         title: "Movie Guider",
-        desc: "A clone functionality of Imdb and using tmdb api .   ",
+        desc: "A clone functionality of Imdb and using tmdb api . you can get movie complete information   ",
         demo: 'https://movieguider.netlify.app',
-        github: 'https://github.com/Mr-Elegant'
+        github: 'https://github.com/Mr-Elegant/Movie_Guider'
     },
     {
         id: 2,
@@ -19,10 +19,18 @@ const data = [
         image: Preetflix,
         title: "Netflix clone",
         desc: "A NETFLIX using core php and mysql. you can stream any video like netflix",
-        demo: '',
+        github: 'https://github.com/Mr-Elegant'
+    },
+    {
+        id: 3,
+        
+        image: Preetflix,
+        title: "Youtube clone",
+        desc: "A NETFLIX using core php and mysql. you can stream any video like netflix",
         github: 'https://github.com/Mr-Elegant'
     },
    
+
 ]
 
 
