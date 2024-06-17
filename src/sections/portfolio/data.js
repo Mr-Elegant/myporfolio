@@ -20,7 +20,7 @@ const data = [
         image: Preetflix,
         title: "Netflix clone",
         desc: "A NETFLIX using core php and mysql. you can stream any video like netflix",
-        github: 'https://github.com/Mr-Elegant'
+        github: 'https://github.com/Mr-Elegant/preetflix'
     },
     {
         id: 3,
@@ -28,7 +28,7 @@ const data = [
         image: YtClone,
         title: "Youtube clone",
         desc: "A Youtube with dark mode clone by using reactjs, you can search and watch any youtube video ",
-        github: 'https://github.com/Mr-Elegant'
+        github: 'https://github.com/Mr-Elegant/youtube-clone'
     },
    
 
