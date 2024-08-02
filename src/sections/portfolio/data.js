@@ -8,8 +8,7 @@ import YtClone from '../../assets/ytclone.jpg'
 const data = [
     
     {
-        id: 1,
-        
+        id: 1,  
         image: MovieGuider ,
         title: "Movie Guider",
         desc: "A clone functionality of Imdb and using tmdb api . you can get movie complete information ",
@@ -17,8 +16,7 @@ const data = [
         github: 'https://github.com/Mr-Elegant/Movie_Guider'
     },
     {
-        id: 2,
-        
+        id: 4,
         image: ChatAPP,
         title: "Realtime ChatApp",
         desc: "A Realtime chat Application using Mern Stack ",
