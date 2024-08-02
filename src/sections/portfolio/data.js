@@ -1,6 +1,8 @@
 import MovieGuider from '../../assets/movie_guider.jpg'
+import ChatAPP from '../../assets/Chatapp.jpg'
 import Preetflix from '../../assets/preetflix.jpg'
 import YtClone from '../../assets/ytclone.jpg'
+
 
 
 const data = [
@@ -13,6 +15,15 @@ const data = [
         desc: "A clone functionality of Imdb and using tmdb api . you can get movie complete information ",
         demo: 'https://movieguider.netlify.app',
         github: 'https://github.com/Mr-Elegant/Movie_Guider'
+    },
+    {
+        id: 2,
+        
+        image: ChatAPP,
+        title: "Realtime ChatApp",
+        desc: "A Realtime chat Application using Mern Stack ",
+        demo: 'https://chat-app1-mern.onrender.com/',
+        github: 'https://github.com/Mr-Elegant/chat-app-transparent'
     },
     {
         id: 2,
