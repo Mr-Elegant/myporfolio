@@ -2,6 +2,7 @@ import MovieGuider from '../../assets/movie_guider.jpg'
 import ChatAPP from '../../assets/Chatapp.jpg'
 import Preetflix from '../../assets/preetflix.jpg'
 import YtClone from '../../assets/ytclone.jpg'
+import Ecom1 from '../../assets/ecommerce.jpg'
 
 
 
@@ -11,7 +12,7 @@ const data = [
         id: 1,  
         image: MovieGuider ,
         title: "Movie Guider",
-        desc: "A clone functionality of Imdb and using tmdb api . you can get movie complete information ",
+        desc: "A light-weight clone functionality of Imdb and using tmdb api . ",
         demo: 'https://movieguider.netlify.app',
         github: 'https://github.com/Mr-Elegant/Movie_Guider'
     },
@@ -34,12 +35,19 @@ const data = [
     {
         id: 3,
         
+        image: Ecom1,
+        title: "MERN Ecommerce app",
+        desc: "A Fully functional Ecommerce application using Mern Stack ",
+        demo: "https://mern-ecommerce-app1.onrender.com/",
+        github: 'https://github.com/burakorkmez/mern-ecommerce'
+    },
+    {
+        id: 5,
         image: YtClone,
         title: "Youtube clone",
-        desc: "A Youtube with dark mode clone by using reactjs, you can search and watch any youtube video ",
+        desc: "A Youtube with dark mode clone by using reactjs . ",
         github: 'https://github.com/Mr-Elegant/youtube-clone'
-    },
-   
+    }
 
 ]
 

@@ -21,6 +21,7 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 3rem;
     align-items: start;
+    
 }
 
 .card.portfolio__project {
@@ -38,7 +39,8 @@
 
 .portfolio__project-image {
     width: 100%;
-    height: fit-content;
+    height: 100;
+    object-fit: cover;
     min-height: 7rem;
     max-height: 15rem;
     background: var(--color-light);
