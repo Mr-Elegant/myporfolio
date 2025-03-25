@@ -5,6 +5,7 @@ import YtClone from '../../assets/ytclone.jpg'
 import Ecom1 from '../../assets/ecommerce.jpg'
 import MG21 from '../../assets/mg2.1.jpg'
 import F4E from '../../assets/F4E.jpg'
+import Otaku from '../../assets/otaku.jpg'
 
 
 
@@ -44,7 +45,6 @@ const data = [
     },
     {
         id: 5,
-        
         image: Ecom1,
         title: "MERN Ecommerce app",
         desc: "A Fully functional Ecommerce application using Mern Stack ",
@@ -53,8 +53,16 @@ const data = [
     },
     
     {
+        id:  8,  
+        image: Otaku,
+        title: "React Showcase website",
+        desc: "A Fully Responsive {React + motion} 1 page website ",
+        demo: "https://otaku-react.netlify.app",
+        github: 'https://github.com/Mr-Elegant/Otaku-react-fun-website-'
+    },
+    
+    {
         id: 6,
-        
         image: Preetflix,
         title: "Netflix clone",
         desc: "A NETFLIX using core php and mysql. you can stream any video like netflix",
