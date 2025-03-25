@@ -11,8 +11,7 @@ import F4E from '../../assets/F4E.jpg'
 const data = [
     
     {
-        id: 1,
-        
+        id: 1,        
         image: MG21,
         title: "Movie Guider 2",
         desc: "A Fully Resoponsive mega website for movie details ",
