@@ -6,10 +6,18 @@ import Ecom1 from '../../assets/ecommerce.jpg'
 import MG21 from '../../assets/mg2.1.jpg'
 import F4E from '../../assets/F4E.jpg'
 import Otaku from '../../assets/otaku.jpg'
-
-
+import DevNet from '../../assets/DevNet.png';
 
 const data = [
+
+    {
+        id: 9,
+        image: DevNet,
+        title: "DevNet",
+        desc: "A Developer Network website built with React and Tailwind CSS.",
+        demo: "https://devnet.co.in/",
+        github: 'https://github.com/Mr-Elegant/DevNet'
+    },
     
     {
         id: 1,        
